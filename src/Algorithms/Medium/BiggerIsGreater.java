@@ -1,3 +1,5 @@
+package Algorithms.Medium;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
