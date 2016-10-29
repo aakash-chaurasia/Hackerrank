@@ -1,3 +1,5 @@
+package Algorithms.Medium;
+
 /**
  * Created by Aakash on 10/19/2016.
  */

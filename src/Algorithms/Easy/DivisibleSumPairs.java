@@ -1,9 +1,12 @@
+package Algorithms.Easy;
+
 import java.util.Scanner;
 
 /**
- * Created by Aakash on 10/20/2016.
+ * Created by Aakash on 10/29/2016.
  */
-public class SumDivisiblePairs {
+public class DivisibleSumPairs {
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
