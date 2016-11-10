@@ -1,10 +1,7 @@
 package Stack.Hard;
 
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+import java.util.Scanner;
+import java.util.Stack;
 
 /**
  * Created by Aakash on 11/10/2016.
